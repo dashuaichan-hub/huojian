@@ -3,10 +3,10 @@ main = "src/index.js"
 compatibility_date = "2026-03-28"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-PUBLIC_BASE_URL = "https://whatapp.pro"
-DOMAIN_OPTIONS = "https://whatapp.pro,https://waatapp.pro,https://waatapp.app"
-ALLOWED_ORIGIN = "https://whatapp.pro"
-ADMIN_PAGE_URL = "https://whatapp.pro/"
+PUBLIC_BASE_URL = "https://king69a.us"
+DOMAIN_OPTIONS = "https://king69a.us"
+ALLOWED_ORIGIN = "https://king69a.us"
+ADMIN_PAGE_URL = "https://king69a.us/"
 LINKS_CACHE_TTL_SECONDS = "300"
 
 [[d1_databases]]
