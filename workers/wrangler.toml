@@ -1,7 +1,7 @@
 name = "link-dispatch-worker"
 main = "src/index.js"
 compatibility_date = "2026-03-28"
-
+compatibility_flags = ["nodejs_compat"]
 [vars]
 PUBLIC_BASE_URL = "https://whatapp.pro"
 DOMAIN_OPTIONS = "https://whatapp.pro,https://waatapp.pro,https://waatapp.app"
@@ -12,7 +12,7 @@ LINKS_CACHE_TTL_SECONDS = "300"
 [[d1_databases]]
 binding = "DB"
 database_name = "link-dispatch-db"
-database_id = "f46d802d-0157-4d71-9878-2f64880acc1f"
+database_id = "10a3e90f-52d7-4d4c-8b82-0ee467ce9f3c"
 
 [[durable_objects.bindings]]
 name = "LINK_ROUTER_DO"
